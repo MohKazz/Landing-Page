@@ -14,7 +14,7 @@ Welcome to my personal portfolio website project! This website was developed to 
 
 ## Demo
 
-You can view the live version of the website [here]([https://mokazan.com](https://landingpage-tan-five.vercel.app/)).
+You can view the live version of the website [here](https://landingpage-tan-five.vercel.app/).
 
 ## Features
 
